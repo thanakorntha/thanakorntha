@@ -67,86 +67,32 @@ Application Deployment Officer and Data Analyst
             alt="Linux" />
     </a>
 </p>
-                    
-### Socials
 
-<p align="left">
-    <a href="https://www.github.com/thanakorntha" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="http://www.instagram.com/thanakorn.tha" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/thanakornthanakraikiti" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="http://www.medium.com/@thanakorn.tha" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.threads.net/@thanakorn.tha" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-        </picture>
-    </a>
+
+### My GitHub Stats
+
+<a href="http://www.github.com/thanakorntha">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanakorntha&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="thanakorntha's GitHub stats" />
+</a>
+<a href="http://www.github.com/thanakorntha">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanakorntha&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
+
+### Get in touch with me
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/thanakornthanakraikiti/">
+  <img align="left" alt="Thanakorn's LinkedIn" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<!-- Medium -->
+<a href="http://www.medium.com/@thanakorn.tha">
+  <img align="left" alt="Thanakorn's Medium" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
+<!-- Instagram -->
+<a href="https://instagram.com/thanakorn.tha">
+  <img align="left" alt="Thanakorn's  Instagram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+</a>
+<p align="center">
 </p>
-
-### GitHub
-
-<b> My GitHub Stats </b>
-
-<a href="http://www.github.com/thanakorntha">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=thanakorntha&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" 
-        alt="thanakorntha's GitHub stats" 
-    />
-</a>
-<a href="http://www.github.com/thanakorntha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanakorntha&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-    />
-</a>
-
-<b> Top Languages </b>
-
-<a href="https://github.com/thanakorntha" align="left">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorntha&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" 
-        alt="Top Languages" 
-    />
-</a>
-
-<b> Top Repositories </b>
-
-<div width="100%" align="center">
-    <a href="https://github.com/thanakorntha/cyclistic-analysis" align="left">
-        <img 
-            align="left" 
-            width="45%" 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=thanakorntha&repo=cyclistic-analysis&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" 
-        />
-    </a>
-    <a href="https://github.com/thanakorntha/8-week-sql-challenge" align="right">
-        <img 
-            align="right" 
-            width="45%" 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=thanakorntha&repo=8-week-sql-challenge&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" 
-        />
-    </a>
-</div>
+<br/><br/>
