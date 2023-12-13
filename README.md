@@ -4,7 +4,9 @@
 <!-- ------------------- My Profile ------------------- -->
 <!-- -------------------------------------------------- -->
 
-# Hi, folks! <img src="https://media.giphy.com/media/NYY4hT8D1bh5K/giphy.gif" width="30px" height="30px" />
+<img src="https://media.giphy.com/media/NYY4hT8D1bh5K/giphy.gif" width="100px" height="100px" />
+
+# Hi, folks! 
 
 <br>
 
@@ -12,17 +14,12 @@
 💬 My name is Thanakorn Thanakraikiti. You can call me Nun.
 📍 Based in Bangkok, Thailand
 
-💼 Working as Technical Associate @ SS&C Technologies • Application Deployment
-💻 System programming languages • DevOps 
+💼 Works as Technical Associate @ <a href="https://www.ssctech.com/" style="color:#ef4444;">SS&C Technologies</a> • Application Deployment
+💻 Linux • PowerShell
 
-📖 Currently learning Data Analytics & Statistics on <a href='https://www.coursera.org/professional-certificates/google-advanced-data-analytics'>Google Advanced Data Analytics Professional Certificate</a>
+📖 Currently learning Data Analytics & Statistics on <a href="https://www.coursera.org/professional-certificates/google-advanced-data-analytics" style="color:#ef4444;">Google Advanced Data Analytics Professional Certificate</a>
 🎓 Studied BA in International Development @ Mae Fah Luanng University
 </pre>
-
-
-
-<!-- 🎮 Music • Games • Anime • Code • Art
-🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥 -->
 
 <br>
 
@@ -73,10 +70,12 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&layout=compact&langs_count=5&hide_title=&exclude_repo=&hide=)](http://www.github.com/thanakorntha)
 
+<!-- 
 ### My Repositories
 
 [![Cyclistic Analysis](https://github-readme-stats.vercel.app/api/pin/?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&description_lines_count=2&repo=cyclistic-analysis)](https://github.com/thanakorntha/cyclistic-analysis)
+-->
 
----
+--- 
 
 </div>
