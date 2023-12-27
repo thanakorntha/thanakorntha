@@ -31,7 +31,6 @@
 [![Thanakorn's LinkedIn](https://img.shields.io/badge/LinkedIn-ef4444?logo=linkedin&logoColor=white)](http://linkedin.com/in/ingridrosselis)
 [![Thanakorn's Medium](https://img.shields.io/badge/Medium-ef4444?logo=medium&logoColor=white)](http://www.medium.com/@thanakorn.tha)
 [![Thanakorn's Instagram](https://img.shields.io/badge/Instagram-ef4444?logo=instagram&logoColor=white)](https://instagram.com/thanakorn.tha)
-[![Thanakorn's Instagram](https://img.shields.io/badge/Coursera-ef4444?logo=coursera&logoColor=white)](https://www.coursera.org/learner/thanakorn-thanakraikiti)
 
 ---
 
