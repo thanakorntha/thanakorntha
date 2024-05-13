@@ -1,80 +1,198 @@
+<!-- ---------------------------------- -->
+<!-- Font Installation - JetBrains Mono -->
+<!-- ---------------------------------- -->
+
+<link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
+<style>
+    body {
+        font-family: 'JetBrains Mono';font-size: 14px;
+    }
+</style>
+
+<!-- -------------- -->
+<!-- Header Section -->
+<!-- -------------- -->
+
+<h1 align="center">
+    <font size="+3">
+        Hi 👋, I'm Thanakorn Thanakraikiti (Nun)
+    </font>
+</h1>
+
+<h3 align="center">
+    <font size="+0">
+        <a href="https://www.linkedin.com/in/thanakornthanakraikiti/" style="color:#ef4444;" target="_blank" rel="noreferrer" >Nun</a> is a passionate Data Enthusiastic and Application Deployment Officer from Thailand, working on financial services company for 2+ years now. Feel free to reach out for any Data Science related positions.
+    </font>
+</h3>
+
 <div align="center">
-
-<!-- -------------------------------------------------- -->
-<!-- ------------------- My Profile ------------------- -->
-<!-- -------------------------------------------------- -->
-
-<img src="https://media.giphy.com/media/NYY4hT8D1bh5K/giphy.gif" width="100px" height="100px" />
-
-# Hi, folks! 
+  <img height="150" src="https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif"  />
+</div>
 
 <br>
 
-<pre>
-💬 My name is Thanakorn Thanakraikiti. You can call me Nun.
-📍 Based in Bangkok, Thailand
+<!-- ---------------- -->
+<!-- About Me Section -->
+<!-- ---------------- -->
 
-💼 Works as Technical Associate @ <a href="https://www.ssctech.com/" style="color:#ef4444;">SS&C Technologies</a> • Application Deployment
-💻 Linux • PowerShell
+<h3 align="left">
+    <font size="+2">
+        👨🏻‍💻 About Me:
+    </font>
+</h3>
 
-📖 Currently learning Data Analytics & Statistics on <a href="https://www.coursera.org/professional-certificates/google-advanced-data-analytics" style="color:#ef4444;">Google Advanced Data Analytics Professional Certificate</a>
-🎓 Studied BA in International Development @ Mae Fah Luanng University
-</pre>
+- 📍 I'm Thanakorn Thanakraikiti or Nun from Bangkok, Thailand
+- 💼 I'm working as *Senior Technical Associate (Application Deployment Team)* @ <a href="https://www.ssctech.com/" style="color:#ef4444;" target="_blank" rel="noreferrer"> SS&C Technologies </a>
+- ⚡ In my free time, I like to read and learn new technology.
 
 <br>
 
-<img src="https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif" height="100" />
+<!-- ----------------- -->
+<!-- Education Section -->
+<!-- ----------------- -->
+
+<h3 align="left">
+    <font size="+2">
+        🎓 Education:
+    </font>
+</h3>
+
+- Online Courses
+    - [----] Currently enrolling *<a href="https://datarockie.com/data-science-bootcamp/" style="color:#ef4444;"> Data Science Bootcamp 10 </a> (Jun - Oct 2024)* by DataRockie
+    - [2024] Completed *Google Professional Certificate in <a href="https://coursera.org/share/d74ef24d633b161e4ebf68854f53cd86" style="color:#ef4444;"> Advanced Data Analytics </a>* @ Google, Coursera
+    - [2023] Completed *Google Professional Certificate in <a href="https://coursera.org/share/0a7128a2605e279d37ee945175926f04" style="color:#ef4444;"> Business Intelligence </a>* @ Google, Coursera
+    - [2021] Completed *Google Professional Certificate in <a href="https://coursera.org/share/90803cfa587a6bcd3636f4d781e4f58f" style="color:#ef4444;"> Data Analytics </a>* @ Google, Coursera
+
+- University
+    - [2019] Studied *<a href="https://socialinnovation.mfu.ac.th/en/social-index.html" style="color:#ef4444;" target="_blank" rel="noreferrer"> BA in International Development </a>* @ School of Social Innovation, Mae Fah Luanng University
 
 <br>
+
+<!-- --------------------------- -->
+<!-- Languages and Tools Section -->
+<!-- --------------------------- -->
+
+<h3 align="left">
+    <font size="+2">
+        Languages and Tools:
+    </font>
+</h3>
+
+- I work on 
+- I’m looking to apply my knowledge and skills on data science into real-world applications.
+
+<!-- Programming Language -->
+<h4 align="left">
+    <font size="+0">
+        Programming Language
+    </font>
+</h4>
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r-project" title="r-project" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-docs/logo_powershell.svg" alt="powershell" title="powershell" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" width="50" height="50"/>
+</p>
+
+<!-- Data Visualization -->
+<h4 align="left">
+    <font size="+0">
+        Data Analysis and Visualization
+    </font>
+</h4>
+<p align="left">
+    <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="bash" title="bash" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/07e36b4aa0691f3015886624395e083395e528c5/svg/g/google-data-studio.svg" alt="bash" title="bash" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tableau-icon.svg" alt="powerbi" title="powerbi" width="50" height="50"/>
+    <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="powerbi" title="powerbi" width="50" height="50"/>
+</p>
+
+<!-- Database -->
+<h4 align="left">
+    <font size="+0">
+        Database
+    </font>
+</h4>
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" title="mysql" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/pheralb/svgl/de6bf9f8dd9f1528d279d0ab88c9a37863388632/static/library/sql-server.svg" alt="ms-sql" title="ms-sql" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="mysql" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mysql" title="mysql" width="50" height="50"/>
+</p>
+
+<!-- Operating System -->
+<h4 align="left">
+    <font size="+0">
+        Operating System
+    </font>
+</h4>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" alt="windows" title="windows" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" title="linux" width="50" height="50"/>
+</p>
+
+<!-- Project Management -->
+<h4 align="left">
+    <font size="+0">
+        Project Management
+    </font>
+</h4>
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="50" height="50"/>
+</p>
+
+<!-- IDE and Editor -->
+<h4 align="left">
+    <font size="+0">
+        IDE and Editor
+    </font>
+</h4>
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" title="jupyter-notebook" width="50" height="50"/>
+</p>
+
 <br>
 
-[![Thanakorn's LinkedIn](https://img.shields.io/badge/LinkedIn-ef4444?logo=linkedin&logoColor=white)](http://linkedin.com/in/ingridrosselis)
-[![Thanakorn's Medium](https://img.shields.io/badge/Medium-ef4444?logo=medium&logoColor=white)](http://www.medium.com/@thanakorn.tha)
-[![Thanakorn's Instagram](https://img.shields.io/badge/Instagram-ef4444?logo=instagram&logoColor=white)](https://instagram.com/thanakorn.tha)
+<!-- --------------- -->
+<!-- Contact Section -->
+<!-- --------------- -->
 
----
+<h3 align="left">
+    <font size="+2">
+        Connect with Me:
+    </font>
+</h3>
 
-<!-- -------------------------------------------------- -->
-<!-- --------------------- Skills --------------------- -->
-<!-- -------------------------------------------------- -->
+- 💻 All of my projects are availble at **<a href="https://thanakorntha.notion.site/THANAKORN-THANAKRAIKITI-PORTFOLIO-6211d3600f69416fbdf41041b4f51427?pvs=4" style="color:#ef4444;" target="_blank" rel="noreferrer" > Thanakorn's Portfolio </a>**
+- 💬 Ask me about **Data**
+- 📫 How to reach me **<a href="mailto:t.thanakraikiti@gmail.com" style="color:#ef4444;"> t.thanakraikiti@gmail.com </a>**
+- 👥 Follow me on 
+**<a href="https://www.github.com/thanakorntha" style="color:#ef4444;" target="_blank" rel="noreferrer" > GitHub </a>** / 
+**<a href="https://www.linkedin.com/in/thanakornthanakraikiti" style="color:#ef4444;" target="_blank" rel="noreferrer" > LinkedIn </a>** / 
+**<a href="https://www.medium.com/@thanakorn.tha" style="color:#ef4444;" target="_blank" rel="noreferrer" > Medium </a>** / 
+**<a href="https://www.instagram.com/thanakorn.tha" style="color:#ef4444;" target="_blank" rel="noreferrer" > Instagram </a>**
 
-### Skills
+<br>
 
-![Python](https://img.shields.io/badge/Python-ef4444?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-ef4444?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/MS_Excel-ef4444?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GG Sheets](https://img.shields.io/badge/Google_Sheets-ef4444?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-ef4444?style=for-the-badge&logo=Tableau&logoColor=white)
+<!-- -------------- -->
+<!-- GitHub Section -->
+<!-- -------------- -->
 
-![Oracle](https://img.shields.io/badge/Oracle-ef4444?style=for-the-badge&logo=Oracle&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-ef4444?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ef4444?style=for-the-badge&logo=mysql&logoColor=white)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-ef4444?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-ef4444?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-ef4444?style=for-the-badge&logo=linux&logoColor=white)
-![MacOS](https://img.shields.io/badge/Mac_OS-ef4444?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
-<!-- -------------------------------------------------- -->
-<!-- ------------------ Github Stats ------------------ -->
-<!-- -------------------------------------------------- -->
+<h3 align="left">
+    <font size="+2">
+        GitHub Stats:
+    </font>
+</h3>
 
 <!-- title_color=ef4444 | text_color=ffffff | icon_color=ef4444 | bg_color=1c1917 -->
 
-### GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&rank_icon=github&show_icons=true&text_bold=false&include_all_commits=false&show_icons=true&hide_title=&exclude_repo=&hide=" height="250" alt="GitHub Stats"  />
+</div>
 
-[![GitHub Stats ](https://github-readme-stats.vercel.app/api?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&rank_icon=github&show_icons=true&text_bold=false&include_all_commits=false&show_icons=true&hide_title=&exclude_repo=&hide=)](http://www.github.com/thanakorntha)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&layout=compact&langs_count=5&hide_title=&exclude_repo=&hide=)](http://www.github.com/thanakorntha)
-
-<!-- 
-### My Repositories
-
-[![Cyclistic Analysis](https://github-readme-stats.vercel.app/api/pin/?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&description_lines_count=2&repo=cyclistic-analysis)](https://github.com/thanakorntha/cyclistic-analysis)
--->
-
---- 
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&layout=compact&langs_count=5&hide_title=&exclude_repo=&hide=" height="180" alt="Top Languages"  />
 </div>
