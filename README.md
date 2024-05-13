@@ -2,10 +2,21 @@
 <!-- Font Installation - JetBrains Mono -->
 <!-- ---------------------------------- -->
 
-<link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
+<!-- <link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
 <style>
     body {
         font-family: 'JetBrains Mono';font-size: 14px;
+    }
+</style> -->
+
+<style>
+    @font-face {
+        font-family: 'JetBrains Mono';
+        src: url('https://example.com/fonts/JetBrainsMono-Regular.ttf') format('truetype');
+    }
+
+    body {
+        font-family: 'JetBrains Mono', monospace;
     }
 </style>
 
