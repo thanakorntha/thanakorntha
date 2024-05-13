@@ -2,8 +2,6 @@
 <!-- Font Installation - JetBrains Mono -->
 <!-- ---------------------------------- -->
 
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/thanakorntha/thanakorntha/main/style.css">
-
 <!-- <link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
 <style>
     body {
@@ -27,13 +25,13 @@
 <!-- -------------- -->
 
 <h1 align="center">
-    <font size="+3">
+    <font size="+3"  face="monospace">
         Hi 👋, I'm Thanakorn Thanakraikiti (Nun)
     </font>
 </h1>
 
 <h3 align="center">
-    <font size="+0">
+    <font size="+1" face="monospace">
         <a href="https://www.linkedin.com/in/thanakornthanakraikiti/" style="color:#ef4444;" target="_blank" rel="noreferrer" >Nun</a> is a passionate Data Enthusiastic and Application Deployment Officer from Thailand, working on financial services company for 2+ years now. Feel free to reach out for any Data Science related positions.
     </font>
 </h3>
