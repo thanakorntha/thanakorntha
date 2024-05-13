@@ -2,6 +2,8 @@
 <!-- Font Installation - JetBrains Mono -->
 <!-- ---------------------------------- -->
 
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/thanakorntha/thanakorntha/main/style.css">
+
 <!-- <link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
 <style>
     body {
@@ -9,16 +11,16 @@
     }
 </style> -->
 
-<style>
+<!-- <style>
     @font-face {
         font-family: 'JetBrains Mono';
-        src: url('https://example.com/fonts/JetBrainsMono-Regular.ttf') format('truetype');
+        src: url('https://github.com/JetBrains/JetBrainsMono/blob/8c3ccf768d899b989a8843ae6bfaad3177c82303/fonts/ttf/JetBrainsMono-Regular.ttf') format('truetype');
     }
 
     body {
         font-family: 'JetBrains Mono', monospace;
     }
-</style>
+</style> -->
 
 <!-- -------------- -->
 <!-- Header Section -->
