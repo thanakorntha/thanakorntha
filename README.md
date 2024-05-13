@@ -2,13 +2,6 @@
 <!-- Font Installation - JetBrains Mono -->
 <!-- ---------------------------------- -->
 
-<!-- <link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
-<style>
-    body {
-        font-family: 'JetBrains Mono';font-size: 14px;
-    }
-</style> -->
-
 <!-- <style>
     @font-face {
         font-family: 'JetBrains Mono';
@@ -25,19 +18,13 @@
 <!-- -------------- -->
 
 <h1 align="center">
-    <font size="+3"  face="monospace">
-        Hi 👋, I'm Thanakorn Thanakraikiti (Nun)
-    </font>
+    Hi 👋, I'm Thanakorn Thanakraikiti (Nun)
 </h1>
 
-<h3 align="center">
-    <font size="+1" face="monospace">
-        <a href="https://www.linkedin.com/in/thanakornthanakraikiti/" style="color:#ef4444;" target="_blank" rel="noreferrer" >Nun</a> is a passionate Data Enthusiastic and Application Deployment Officer from Thailand, working on financial services company for 2+ years now. Feel free to reach out for any Data Science related positions.
-    </font>
-</h3>
+<br>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif"  />
 </div>
 
 <br>
@@ -47,9 +34,7 @@
 <!-- ---------------- -->
 
 <h3 align="left">
-    <font size="+2">
-        👨🏻‍💻 About Me:
-    </font>
+    👨🏻‍💻 About Me:
 </h3>
 
 - 📍 I'm Thanakorn Thanakraikiti or Nun from Bangkok, Thailand
@@ -63,18 +48,16 @@
 <!-- ----------------- -->
 
 <h3 align="left">
-    <font size="+2">
-        🎓 Education:
-    </font>
+    📚 Education:
 </h3>
 
-- Online Courses
-    - [----] Currently enrolling *<a href="https://datarockie.com/data-science-bootcamp/" style="color:#ef4444;"> Data Science Bootcamp 10 </a> (Jun - Oct 2024)* by DataRockie
+- 💻 **Online Courses**
+    - [2024] Currently enrolling *<a href="https://datarockie.com/data-science-bootcamp/" style="color:#ef4444;"> Data Science Bootcamp 10 </a> (Jun - Oct 2024)* by DataRockie
     - [2024] Completed *Google Professional Certificate in <a href="https://coursera.org/share/d74ef24d633b161e4ebf68854f53cd86" style="color:#ef4444;"> Advanced Data Analytics </a>* @ Google, Coursera
     - [2023] Completed *Google Professional Certificate in <a href="https://coursera.org/share/0a7128a2605e279d37ee945175926f04" style="color:#ef4444;"> Business Intelligence </a>* @ Google, Coursera
     - [2021] Completed *Google Professional Certificate in <a href="https://coursera.org/share/90803cfa587a6bcd3636f4d781e4f58f" style="color:#ef4444;"> Data Analytics </a>* @ Google, Coursera
 
-- University
+- 🎓 **University**
     - [2019] Studied *<a href="https://socialinnovation.mfu.ac.th/en/social-index.html" style="color:#ef4444;" target="_blank" rel="noreferrer"> BA in International Development </a>* @ School of Social Innovation, Mae Fah Luanng University
 
 <br>
@@ -84,19 +67,15 @@
 <!-- --------------------------- -->
 
 <h3 align="left">
-    <font size="+2">
-        Languages and Tools:
-    </font>
+    🛠️ Languages and Tools:
 </h3>
 
-- I work on 
-- I’m looking to apply my knowledge and skills on data science into real-world applications.
+- 💡 I work on application deployment, using various range of tools.
+- 🔎 I’m looking to apply my knowledge and skills on data science into real-world applications.
 
 <!-- Programming Language -->
 <h4 align="left">
-    <font size="+0">
-        Programming Language
-    </font>
+    Programming Language
 </h4>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="50" height="50"/>
@@ -107,9 +86,7 @@
 
 <!-- Data Visualization -->
 <h4 align="left">
-    <font size="+0">
-        Data Analysis and Visualization
-    </font>
+    Data Analysis and Visualization
 </h4>
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="bash" title="bash" width="50" height="50"/>
@@ -120,9 +97,7 @@
 
 <!-- Database -->
 <h4 align="left">
-    <font size="+0">
-        Database
-    </font>
+    Database
 </h4>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" title="mysql" width="50" height="50"/>
@@ -133,9 +108,7 @@
 
 <!-- Operating System -->
 <h4 align="left">
-    <font size="+0">
-        Operating System
-    </font>
+    Operating System
 </h4>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" alt="windows" title="windows" width="50" height="50"/>
@@ -144,9 +117,7 @@
 
 <!-- Project Management -->
 <h4 align="left">
-    <font size="+0">
-        Project Management
-    </font>
+    Project Management
 </h4>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="50" height="50"/>
@@ -156,9 +127,7 @@
 
 <!-- IDE and Editor -->
 <h4 align="left">
-    <font size="+0">
-        IDE and Editor
-    </font>
+    IDE and Editor
 </h4>
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="50" height="50"/>
@@ -172,9 +141,7 @@
 <!-- --------------- -->
 
 <h3 align="left">
-    <font size="+2">
-        Connect with Me:
-    </font>
+    🔗 Connect with Me:
 </h3>
 
 - 💻 All of my projects are availble at **<a href="https://thanakorntha.notion.site/THANAKORN-THANAKRAIKITI-PORTFOLIO-6211d3600f69416fbdf41041b4f51427?pvs=4" style="color:#ef4444;" target="_blank" rel="noreferrer" > Thanakorn's Portfolio </a>**
@@ -193,17 +160,15 @@
 <!-- -------------- -->
 
 <h3 align="left">
-    <font size="+2">
-        GitHub Stats:
-    </font>
+    ⚙️ GitHub Stats:
 </h3>
 
 <!-- title_color=ef4444 | text_color=ffffff | icon_color=ef4444 | bg_color=1c1917 -->
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&rank_icon=github&show_icons=true&text_bold=false&include_all_commits=false&show_icons=true&hide_title=&exclude_repo=&hide=" height="250" alt="GitHub Stats"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&rank_icon=github&show_icons=true&text_bold=false&include_all_commits=false&show_icons=true&hide_title=&exclude_repo=&hide=" height="200" alt="GitHub Stats"  />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&layout=compact&langs_count=5&hide_title=&exclude_repo=&hide=" height="180" alt="Top Languages"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorntha&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=ef4444&bg_color=1c1917&card_width=450&locale=en&hide_border=false&layout=compact&langs_count=5&hide_title=&exclude_repo=&hide=" height="145" alt="Top Languages"  />
 </div>
