@@ -100,10 +100,10 @@
     Database
 </h4>
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="mysql" title="mysql" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" title="oracle" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/pheralb/svgl/de6bf9f8dd9f1528d279d0ab88c9a37863388632/static/library/sql-server.svg" alt="ms-sql" title="ms-sql" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" title="mysql" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mysql" title="mysql" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" title="postgresql" width="50" height="50"/>
 </p>
 
 <!-- Operating System -->
